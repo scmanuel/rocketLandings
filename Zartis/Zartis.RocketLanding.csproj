@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Zartis.RocketLanding</AssemblyName>
+    <RootNamespace>Zartis.RocketLanding</RootNamespace>
+  </PropertyGroup>
+
+</Project>
