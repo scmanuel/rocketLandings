@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zartis.RocketLanding", "Zartis\Zartis.RocketLanding.csproj", "{571A4E1E-4799-4A9C-A45D-962FF47E71F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zartis.RocketLanding", "Zartis.RocketLanding\Zartis.RocketLanding.csproj", "{571A4E1E-4799-4A9C-A45D-962FF47E71F6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{583CD9DB-1090-461B-AAAA-CF7D417C4F9B}"
 EndProject
@@ -19,6 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zartis.RocketLanding.Compon
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solutionItems", "solutionItems", "{C25BC035-808D-4FFA-8221-6801B2D50149}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		README.md = README.md
 	EndProjectSection
 EndProject

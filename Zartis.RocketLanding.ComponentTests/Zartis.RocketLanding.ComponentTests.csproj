@@ -18,7 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Zartis.RocketLanding.TestSupport\Zartis.RocketLanding.TestSupport.csproj" />
-    <ProjectReference Include="..\Zartis\Zartis.RocketLanding.csproj" />
+    <ProjectReference Include="..\Zartis.RocketLanding\Zartis.RocketLanding.csproj" />
   </ItemGroup>
 
 </Project>

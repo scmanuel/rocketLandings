@@ -15,7 +15,7 @@ Please create a library (just library, it doesn't need to be used on any cli/gui
 Please, write automated tests for the library
 Note: This exercise is prepared to be done in around 1 hour, however you can use as much time as you need.
 
-# Solution proposed by Manuel Santos Cortés (sc.manuel@gmail.com):
+# Solution proposed:
 
 The different responsibilities have been related to the purpose of the real object:
 
@@ -26,3 +26,7 @@ The different responsibilities have been related to the purpose of the real obje
 - *Dimension*: size of the landing area/platform. It includes methods used to know if the landing platform is inside of the landing area and if a position is inside of a dimension.
 - *ApproachCheckResultMapper*: it performs the mapping between the enum with the different values (out, clash, ok) and the final text receives by the rocket.
 - *ZartisExerciseStrategy*: it applies a strategy to evaluate the landing position. This makes easy to apply a different strategy for the landings. 
+
+
+
+*Manuel Santos Cortés (sc.manuel@gmail.com) - 2020-10-26*
